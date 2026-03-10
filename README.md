@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Alina Tkachenko
 
-**Intern/Junior ML Engineer | Data Scientist | Data Analyst**  
+**ML Engineer | Data Scientist | Data Analyst**  
 📍 Tbilisi, Georgia
 
 ## 🚀 About Me
