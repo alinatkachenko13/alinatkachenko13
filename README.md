@@ -19,7 +19,7 @@ I completed a Professional Retraining Program in Data Science at Yandex Practicu
 Professional retraining program covering ML, statistics, Python, and data analysis. Project work includes predictive modeling, computer vision, NLP, and ML model deployment.
 
 **Self-Employed** — Math Tutor (Dec 2020 - May 2025)  
-Prepared students for standardized exams. 80% of students achieved excellent grades. This work strengthened my mathematical foundation and problem-solving skills.
+I taught mathematical analysis, probability theory, statistics, linear algebra, and combinatorics—subjects that form the foundation of machine learning and data analysis.
 
 ## 🎓 Education
 **Yandex Practicum** — Professional Certificate, Data Science (Apr 2025 - Jan 2026)
